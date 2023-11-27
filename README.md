@@ -14,7 +14,7 @@
 
 ## 4. Membuat file tambah.php
 
-![P4](image/P4.png)
+![F4](image/F4.png)
 
 ## 5. Membuat file ubah.php
 
