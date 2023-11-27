@@ -10,7 +10,7 @@
 
 ## 3. Membuat file index.php
 
-image/P3.png
+![P5](image/P5.png)
 
 ## 4. Membuat file tambah.php
 
@@ -18,7 +18,7 @@ image/P3.png
 
 ## 5. Membuat file ubah.php
 
-![P5](image/P5.png)
+
 
 ## 6. Membuat file hapus.php
 
