@@ -10,7 +10,7 @@
 
 ## 3. Membuat file index.php
 
-![p3](image/p3.png)
+image/P3.png
 
 ## 4. Membuat file tambah.php
 
